@@ -3,5 +3,6 @@ test git quick start
 mars commit
 moon commit
 jupiter commit
+venus commit
 
 future plans?
